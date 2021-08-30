@@ -1,0 +1,193 @@
+{
+  "rulebaseUuid": "d2192bdb-6fe1-4cdd-8a73-44fae0e7480b",
+  "language": "en_GB",
+  "bootstrapData": {
+    "attributes": [
+      {
+        "attribute": "case.ApplicationID",
+        "valueAsString": "123"
+      },
+      {
+        "attribute": "case.ClientCompany",
+        "valueAsString": "AIA Singapore"
+      },
+      {
+        "attribute": "case.CountryOfContract",
+        "valueAsString": "Singapore"
+      },
+      {
+        "attribute": "case.SalesChannel",
+        "valueAsString": "Agency"
+      },
+      {
+        "attribute": "case.SubChannel",
+        "valueAsString": "FSC"
+      },
+      {
+        "attribute": "case.UserType",
+        "valueAsString": "iPoS"
+      },
+      {
+        "attribute": "case.PolicyOwnerNationality",
+        "valueAsString": "SGP"
+      },
+      {
+        "attribute": "case.PolicyOwnerOccupationCode",
+        "valueAsString": "A001"
+      },
+      {
+        "attribute": "case.ClientPresent",
+        "valueAsString": "Yes"
+      },
+      {
+        "attribute": "case.life[0].LifeID",
+        "valueAsString": "123"
+      },
+      {
+        "attribute": "case.life[0].GivenName",
+        "valueAsString": "Test Block A Only"
+      },
+      {
+        "attribute": "case.life[0].Gender",
+        "valueAsString": "MALE"
+      },
+      {
+        "attribute": "case.life[0].DateOfBirth",
+        "valueAsString": "1991-08-01"
+      },
+      {
+        "attribute": "case.life[0].InsuranceAge",
+        "valueAsString": "30"
+      },
+      {
+        "attribute": "case.life[0].MaritalStatus",
+        "valueAsString": "Single"
+      },
+      {
+        "attribute": "case.life[0].SmokingStatus",
+        "valueAsString": "NON_SMOKER"
+      },
+      {
+        "attribute": "case.life[0].OccupationGeneral.OccupationQuoted",
+        "valueAsString": "A001"
+      },
+      {
+        "attribute": "case.life[0].OccupationGeneral.OccClassPATrigger",
+        "valueAsString": "CL1"
+      },
+      {
+        "attribute": "case.life[0].OccupationGeneral.OccupationStatus",
+        "valueAsString": "Full-time"
+      },
+      {
+        "attribute": "case.life[0].Nationality",
+        "valueAsString": "SGP"
+      },
+      {
+        "attribute": "case.life[0].Residence.ResidenceStatus",
+        "valueAsString": "SGNRIC"
+      },
+      {
+        "attribute": "case.life[0].Residence.ResidenceCountry",
+        "valueAsString": "SGP"
+      },
+      {
+        "attribute": "case.life[0].Financial.AnnualIncome",
+        "valueAsString": "48000"
+      },
+      {
+        "attribute": "case.life[0].MedicalIndicator",
+        "valueAsString": "Yes"
+      },
+      {
+        "attribute": "case.life[0].PureConversionCase",
+        "valueAsString": "Yes"
+      },
+      {
+        "attribute": "case.life[0].OtherConversionCase",
+        "valueAsString": "No"
+      },
+      {
+        "attribute": "case.life[0].PostDeliveryBenefit",
+        "valueAsString": "No"
+      },
+      {
+        "attribute": "case.life[0].product[0].type",
+        "valueAsString": "SGP Normal"
+      },
+      {
+        "valueAsString": "0",
+        "attribute": "case.life[0].product[0].ID"
+      },
+      {
+        "attribute": "case.life[0].product[0].LifeRole",
+        "valueAsString": "Adult Life"
+      },
+      {
+        "attribute": "case.life[0].product[0].IPOSPolicyID",
+        "valueAsString": "123"
+      },
+      {
+        "attribute": "case.life[0].product[0].PlanType",
+        "valueAsString": "Traditional life"
+      },
+      {
+        "attribute": "case.life[0].product[0].Code",
+        "valueAsString": "123"
+      },
+      {
+        "attribute": "case.life[0].product[0].PaymentMethod",
+        "valueAsString": "Cash"
+      },
+      {
+        "attribute": "case.life[0].product[0].PayorLifeID",
+        "valueAsString": "123"
+      },
+      {
+        "attribute": "case.life[0].product[0].PayorIC",
+        "valueAsString": "123"
+      },
+      {
+        "attribute": "case.life[0].product[0].RiskClass",
+        "valueAsString": "0"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].type",
+        "valueAsString": "CI"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].UWPhilosophyCI",
+        "valueAsString": "Comprehensive CI"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].BenefitILRiskType",
+        "valueAsString": "IGNORE"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].BenefitILSARGroup",
+        "valueAsString": "IGNORE"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].BenefitApplicant",
+        "valueAsString": "TBD"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].amount",
+        "valueAsString": "100000"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].termBasis",
+        "valueAsString": "YEARS"
+      },
+      {
+        "attribute": "case.life[0].product[0].benefit[0].term",
+        "valueAsString": "30"
+      }
+    ]
+  },
+  "mandatoryValidationsSettings": {
+    "validateOnNextForm": true,
+    "validateOnPreviousForm": true,
+    "validateOnSubmit": true
+  }
+}
